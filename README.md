@@ -15,15 +15,18 @@ Membuat Dashboard dari data mentah untuk meningkatkan <i>Sales Perfomance</i> pe
 # Dashboard
 ![alt text](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Fig/Dashboard.png)
 
-# # Insight/Analisis
+#Insight/Analisis
 ![alt text](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Fig/Analysis%20Entire%20Total%20Sales%20%26%20Quantity%20Sold.png)
+
 Terlihat bahwa trend total sales dan Quantity Sold dari Tahun 2020 – 2021 mengalami penurunan. Hal itu disebabkan karena jumlah order di Tahun 2021 juga mengalami penurunan dibandingkan Tahun 2020.
 
 ![alt text](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Fig/Analysis%20Total%20Sales%20%26%20Qty%20Sold%20by%20Category%20Product.png)
+
 Secara keselurahan dari January 2020 – Desember 2021, Robots merupakan Category Product dengan Total Sales tertinggi sedangkan Blueprint yang terendah.
 Berdasarkan Quantity Sold, eBooks diurutan pertama, diikuti Training Videos, Blueprints, Drone Kits dan Drones. Disini justru Robots dan Robot Kits category product yang paling sedikit terjual tetapi memiliki total sales tertinggi. Hal ini terjadi karena Robots memiliki Price yang tinggi.
 
 ![alt text](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Fig/Analysis%20Total%20Sales%20%26%20Qty%20Sold%20by%20City.png)
+
 Washington kota dengan Total Sales dan Quantity Sold terbanyak dengan $55,38k Total sales dan 308 Quantity Sold, diikuti Houston dengan $33,76k Total Sales dan 249 Quantity Sold. 
 Hal lain yang menarik untuk diperhatikan disini adalah Sacramento dan Albany memiliki jumlah Quantity Order yang cenderung lebih sedikit tetapi memiliki Total Sales yang tinggi. Hal ini mungkin terjadi karena Category Product yang dipesan itu mayoritas Robots/Drones, yang mana memiliki Price yang tinggi.
 
