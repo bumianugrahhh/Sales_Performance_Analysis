@@ -1,4 +1,4 @@
-# Sales Performance Analysis : Project Overview
+![image](https://github.com/bumianugrahhh/Sales_Performance_Analysis/assets/104814864/736e5a68-6c58-4d36-aeb1-218e33429b6b)# Sales Performance Analysis : Project Overview
 - Berperan sebagai Business Intelligence Analyst di sebuah perusahaan untuk menganalisis aspek yang berkaitan dengan performa penjualan perusahaan tersebut.
 - Terdapat 4 table berekstensi <i>csv</i> yaitu : Customers, Products, ProductCategory dan Orders [here](https://github.com/bumianugrahhh/Sales_Performance_Analysis/tree/main/Data%20Source)
 - Membuat master table [orders_detail](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Data%20Source/orders_detail.csv) dari hasil gabungan dari ke-4 table tersebut dengan melakukan [query](https://github.com/bumianugrahhh/Sales_Performance_Analysis/blob/main/Query%20orders_detail.docx)
@@ -38,7 +38,7 @@ Hal lain yang menarik untuk diperhatikan disini adalah Sacramento dan Albany mem
 
 # Business Recommendation
 - Mengadakan promo, mempromosikan product dalam bentuk paket, misalnya semua product dalam category Robots dibundling.  Bisa juga dilakukan penawaran produk pada orang yang akan membeli barang secara satuan, sehingga dapat dikatakan lebih efektif daripada menawarkannya pada konsumen yang sama sekali belum tertarik.
-- Untuk kota dengan angka penjualan terbanyak, kita dapat menawarkan promo / paket spesial dan terus meningkatkan kualitas layanan sehingga dapat menjaga tingkat kepuasan dan loyalitas customer, sedangkan untuk kota – kota dengan penjualan yang terbilang rendah kita bisa beriklan serta melakukan trial and error agar pemasaran dapat diekplorasi dan diterapkan dengan cermat, misalnya memberikan potongan harga istimewa atau promo lainnya.
+- Mensegmentasikan pelanggan menjadi beberapa segmentasi berdasarkan total pembelian selama rentang waktu tertentu dan memberikan penawaran menarik untuk tiap-tiap segmen pelanggan.
 - Memberikan garansi produk, ini dapat mengakibatkan pelanggan merasa lebih aman saat membeli produk kita. Dengan adanya garansi akan menjadi nilai lebih dari produk dan membangun kepercayaan pelanggan.
 - Menyediakan berbagai macam metode pembayaran, misalnya dengan cash on delivery atau berkolaborasi dengan dompet digital (eWallet) / mobile banking. Sehingga bisa lebih menyesuaikan dengan berbagai kebutuhan dan kebiasaan konsumen.
 
